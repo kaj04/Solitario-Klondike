@@ -101,7 +101,7 @@ Klondike-Solitario/
 
 ## 👤 Autore
 
-**Tuo Nome**  
+**Francesco Colasurdo**  
 📧 francesco.colasurdo04@gmail.com  
 🔗 [LinkedIn](www.linkedin.com/in/francesco-colasurdo)  
 
